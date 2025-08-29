@@ -1,4 +1,5 @@
-﻿// HW1a Sales Total;;;
+﻿// HW1a Sales Total
+// (Fill your name here)
 
 using System;
 using System.Collections.Generic;
