@@ -1,5 +1,7 @@
 ﻿// HW1a Sales Total
-// (Fill your name here)
+
+// Your Name:
+// Did you seek help ? If yes, specify the helper or web link here: 
 
 using System;
 using System.Collections.Generic;
